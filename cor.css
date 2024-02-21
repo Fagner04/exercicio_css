@@ -63,3 +63,9 @@ body> header {
     padding: 10px 0;
     color: rgb(255, 255, 255);
 }
+
+time{
+   width: 4px;
+   height: 55px;
+   padding: 33px;
+}
